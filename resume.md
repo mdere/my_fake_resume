@@ -1,4 +1,4 @@
-Michael "More Beer!" Dere
+Michael Dere
 =============
 Skills: 
 1. Learning to Code
