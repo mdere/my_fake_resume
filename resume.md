@@ -1,8 +1,8 @@
 Michael Dere
 =============
 Skills: 
-# Learning to Code
+1. Learning to Code
 
 Employment History: 
-# Was an Adventurer before a taking an arrow to the knee.
-# Take out that arrow...
+1. Was an Adventurer before a taking an arrow to the knee.
+2. Take out that arrow...
